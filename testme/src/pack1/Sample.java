@@ -2,24 +2,28 @@ package pack1;
 
 public class Sample {
 
-	public void method1()
+	public String method1()
 	{
 		
-		System.out.println("Method 1");
+		String result1 ="Method 1";
+		return result1;
 	
 	}
 	
-	public void method2()
+	public String method2()
 	{
 		
-		System.out.println("Method 2");
+		String result2 ="Method 2";
+		return result2;
 	
 	}
 	
-	public void method3()
+	public String method3()
 	{
 		
-		System.out.println("Method 3");
+		String result3 ="Method 3";
+		return result3;
+	
 	
 	}
 	
