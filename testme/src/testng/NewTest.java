@@ -12,7 +12,7 @@ public class NewTest {
 	  System.out.println("Hello Testng");
 	  Sample test = new Sample();
 	  String result = test.method1();
-	  Assert.assertEquals(result, "Method1");
+	  Assert.assertEquals(result, "Method 1");
 	  
   }
 }
